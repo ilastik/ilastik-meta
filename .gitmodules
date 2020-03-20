@@ -4,6 +4,3 @@
 [submodule "volumina"]
 	path = volumina
 	url = https://github.com/ilastik/volumina
-[submodule "lazyflow"]
-	path = lazyflow
-	url = https://github.com/ilastik/lazyflow
