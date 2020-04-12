@@ -1,6 +1,6 @@
 [submodule "ilastik"]
 	path = ilastik
-	url = https://github.com/ilastik/ilastik
+	url = https://github.com/captainxu/ilastik
 [submodule "volumina"]
 	path = volumina
-	url = https://github.com/ilastik/volumina
+	url = https://github.com/captainxu/volumina
