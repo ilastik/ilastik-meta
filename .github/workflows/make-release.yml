@@ -20,6 +20,6 @@ jobs:
             -X POST \
             -F token=${GL_TOKEN} \
             -F "ref=master" \
-            -F "variables[ILASTIK_VERSION]=${GITHUB_REF}" \
+            -F "variables[ILASTIK_VERSION]=${GITHUB_REF##*/}" \
             --output /dev/null \
             ${GL_URL}
